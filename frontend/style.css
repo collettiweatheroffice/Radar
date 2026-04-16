@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+#map {
+  height: 100vh;
+}
+
+#controls {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: white;
+  padding: 10px;
+  z-index: 1000;
+}
